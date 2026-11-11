@@ -14,7 +14,7 @@
 | CRAFT-Pipenet | [PNG](원본_삽화/CRAFT-Pipenet.png) | [카드](프로필_카드/CRAFT-Pipenet.svg) | [표지](README_표지/CRAFT-Pipenet.svg) |
 | CRAFT-AutoCAD | [PNG](원본_삽화/CRAFT-AutoCAD.png) | [카드](프로필_카드/CRAFT-AutoCAD.svg) | [표지](README_표지/CRAFT-AutoCAD.svg) |
 | Vehicle Tracking | [PNG](원본_삽화/CRAFT-Vehicle-Tracking.png) | [카드](프로필_카드/CRAFT-Vehicle-Tracking.svg) | [표지](README_표지/CRAFT-Vehicle-Tracking.svg) |
-| PASS_AI-FLY | [PNG](원본_삽화/PASS_AI-FLY.png) | [카드](프로필_카드/PASS_AI-FLY.svg) | [표지](README_표지/PASS_AI-FLY.svg) |
+| OpenFly | [PNG](원본_삽화/OpenFly.png) | [카드](프로필_카드/OpenFly.svg) | [표지](README_표지/OpenFly.svg) |
 | PASS_AI-MCP | [PNG](원본_삽화/PASS_AI-MCP.png) | [카드](프로필_카드/PASS_AI-MCP.svg) | [표지](README_표지/PASS_AI-MCP.svg) |
 | Asta-Profile | [PNG](원본_삽화/Asta-Profile.png) | [카드](프로필_카드/Asta-Profile.svg) | [표지](README_표지/Asta-Profile.svg) |
 
