@@ -1,6 +1,6 @@
 # Asta-Profile
 
-![아스타 프로필 이미지 · Asta-Profile의 흑백 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/4225c2a517e5917cab196b11c5817a3ab532f08d/assets/repositories/Asta-Profile.webp)
+![아스타 프로필 이미지 · Asta-Profile의 흑백 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/49de0028cf64f6f32ef9803bf0e321bc1d10ff19/assets/covers/v0.1/Asta-Profile.svg)
 
 Yfacine GitHub 프로필에 사용할 아스타 이미지 시안 모음입니다.
 
